@@ -3044,3 +3044,294 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.08.08-07.59.40:938][748]SourceControl:  create mode 100644 Content/sounds/fire-sound-efftect-21991.uasset
 [2025.08.08-07.59.40:938][748]SourceControl:  create mode 100644 Content/sounds/mysterious-area-theme-148429.uasset
 [2025.08.08-07.59.40:952][748]SourceControl: Commited [master d75fe1e] sounds and trees.
+[2025.08.08-08.00.34:659][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4579.550293
+[2025.08.08-08.00.34:907][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.08-08.00.34:907][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4579.786621, Update Interval: 357.004303
+[2025.08.08-08.07.13:886][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4978.791016
+[2025.08.08-08.07.14:172][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.08-08.07.14:172][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4979.063477, Update Interval: 327.860352
+[2025.08.08-08.13.21:708][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5346.613281
+[2025.08.08-08.13.21:968][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.08-08.13.21:968][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5346.860840, Update Interval: 342.468933
+[2025.08.08-08.16.04:940][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.08-08.16.05:078][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.08-08.16.05:099][132]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/crashsite.crashsite
+[2025.08.08-08.16.05:099][132]Cmd: MAP LOAD FILE="../../../../../../Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject/Content/Maps/crashsite.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.08-08.16.05:099][132]LightingResults: New page: Lighting Build
+[2025.08.08-08.16.05:099][132]LoadErrors: New page: Loading map: crashsite.umap
+[2025.08.08-08.16.05:154][132]LogWorld: UWorld::CleanupWorld for Past, bSessionEnded=true, bCleanupResources=true
+[2025.08.08-08.16.05:155][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.16.05:156][132]MapCheck: New page: Map Check
+[2025.08.08-08.16.05:156][132]LightingResults: New page: Lighting Build
+[2025.08.08-08.16.05:173][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.08-08.16.05:222][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.08-08.16.05:237][132]LogWorld: UWorld::CleanupWorld for crashsite, bSessionEnded=true, bCleanupResources=true
+[2025.08.08-08.16.05:239][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.16.05:264][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.08.08-08.16.05:278][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.08-08.16.05:338][132]LogAudio: Display: Audio Device (ID: 1) registered with world 'crashsite'.
+[2025.08.08-08.16.05:338][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.08-08.16.05:338][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.08-08.16.05:338][132]LogAIModule: Creating AISystem for world crashsite
+[2025.08.08-08.16.05:416][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.08-08.16.05:436][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.08-08.16.05:448][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.08-08.16.05:448][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2025.08.08-08.16.08:948][354]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.08-08.16.08:957][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.08-08.16.08:957][354]PIE: New page: PIE session: crashsite (08-Aug-2025, 7:16:08 pm)
+[2025.08.08-08.16.08:957][354]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_crashsite
+[2025.08.08-08.16.09:002][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044082s)
+[2025.08.08-08.16.09:002][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/crashsite.crashsite to /Game/Maps/UEDPIE_0_crashsite.crashsite (0.044119s)
+[2025.08.08-08.16.09:017][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.08-08.16.09:021][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.08-08.16.09:021][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.08-08.16.09:021][354]LogAIModule: Creating AISystem for world crashsite
+[2025.08.08-08.16.09:022][354]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2025.08.08-08.16.09:022][354]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.08-08.16.09:022][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.08-08.16.09:022][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.08-08.16.09:022][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.08-08.16.09:022][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.08-08.16.09:022][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.08-08.16.09:024][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.08-08.16.09:044][354]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.08.08-08.16.09:045][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.08-08.16.09:045][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.08-08.16.09:045][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.08-08.16.09:045][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.08-08.16.09:045][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.08-08.16.09:048][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.08-08.16.09:048][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.08-08.16.09:048][354]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.08-08.16.09:048][354]LogAudio: Display: Audio Device (ID: 16) registered with world 'crashsite'.
+[2025.08.08-08.16.09:048][354]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.08-08.16.09:051][354]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.08-08.16.09:076][354]LogWorld: Bringing World /Game/Maps/UEDPIE_0_crashsite.crashsite up for play (max tick rate 0) at 2025.08.08-13.46.09
+[2025.08.08-08.16.09:078][354]LogWorld: Bringing up level for play took: 0.027153
+[2025.08.08-08.16.09:080][354]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.08.08-08.16.09:082][354]PIE: Server logged in
+[2025.08.08-08.16.09:083][354]PIE: Play in editor total start time 0.125 seconds.
+[2025.08.08-08.16.42:521][467]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.08-08.16.42:521][467]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.08.08-08.16.42:521][467]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.08.08-08.16.43:411][527]LogNet: Browse: /Game/Maps/Past
+[2025.08.08-08.16.43:411][527]LogLoad: LoadMap: /Game/Maps/Past
+[2025.08.08-08.16.43:411][527]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_crashsite
+[2025.08.08-08.16.43:411][527]LogWorld: UWorld::CleanupWorld for crashsite, bSessionEnded=true, bCleanupResources=true
+[2025.08.08-08.16.43:415][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.16.43:479][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.08-08.16.43:488][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.08-08.16.43:794][527]LogAudio: Display: Audio Device (ID: 16) registered with world 'Past'.
+[2025.08.08-08.16.43:794][527]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.08-08.16.43:795][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.08-08.16.43:795][527]LogAIModule: Creating AISystem for world Past
+[2025.08.08-08.16.43:796][527]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2025.08.08-08.16.43:796][527]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.08-08.16.43:973][527]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Past.Past up for play (max tick rate 0) at 2025.08.08-13.46.43
+[2025.08.08-08.16.43:974][527]LogWorld: Bringing up level for play took: 0.178505
+[2025.08.08-08.16.43:980][527]LogLoad: Took 0.569328 seconds to LoadMap(/Game/Maps/Past)
+[2025.08.08-08.17.20:554][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.08-08.17.20:554][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Past
+[2025.08.08-08.17.20:556][222]LogWorld: UWorld::CleanupWorld for Past, bSessionEnded=true, bCleanupResources=true
+[2025.08.08-08.17.20:573][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.17.20:578][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.08-08.17.20:585][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.17.20:611][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.08-08.17.20:612][222]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.08-08.17.20:612][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.08-08.17.20:614][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.08-08.17.20:652][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.08.08-08.17.20:712][223]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.08.08-08.17.30:520][823]LogViewport: Scene viewport resized to 1526x940, mode Windowed.
+[2025.08.08-08.17.39:724][358]LogViewport: Scene viewport resized to 1170x940, mode Windowed.
+[2025.08.08-08.18.58:000][396]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.08-08.18.58:011][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.08-08.18.58:011][396]PIE: New page: PIE session: crashsite (08-Aug-2025, 7:18:58 pm)
+[2025.08.08-08.18.58:012][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_crashsite
+[2025.08.08-08.18.58:055][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043774s)
+[2025.08.08-08.18.58:055][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/crashsite.crashsite to /Game/Maps/UEDPIE_0_crashsite.crashsite (0.043808s)
+[2025.08.08-08.18.58:081][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.08.08-08.18.58:086][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.08-08.18.58:086][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.08-08.18.58:087][396]LogAIModule: Creating AISystem for world crashsite
+[2025.08.08-08.18.58:087][396]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2025.08.08-08.18.58:087][396]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.08-08.18.58:087][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.08-08.18.58:087][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.08-08.18.58:088][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.08-08.18.58:088][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.08-08.18.58:088][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.08-08.18.58:090][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.08-08.18.58:108][396]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.08.08-08.18.58:109][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.08-08.18.58:109][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.08-08.18.58:109][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.08-08.18.58:109][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.08.08-08.18.58:109][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.08.08-08.18.58:111][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.08.08-08.18.58:111][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.08.08-08.18.58:111][396]LogInit: FAudioDevice initialized with ID 17.
+[2025.08.08-08.18.58:111][396]LogAudio: Display: Audio Device (ID: 17) registered with world 'crashsite'.
+[2025.08.08-08.18.58:111][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.08-08.18.58:116][396]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.08-08.18.58:140][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_crashsite.crashsite up for play (max tick rate 0) at 2025.08.08-13.48.58
+[2025.08.08-08.18.58:142][396]LogWorld: Bringing up level for play took: 0.025597
+[2025.08.08-08.18.58:144][396]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.08.08-08.18.58:145][396]PIE: Server logged in
+[2025.08.08-08.18.58:147][396]PIE: Play in editor total start time 0.137 seconds.
+[2025.08.08-08.19.13:494][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.08-08.19.13:494][352]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_crashsite
+[2025.08.08-08.19.13:495][352]LogWorld: UWorld::CleanupWorld for crashsite, bSessionEnded=true, bCleanupResources=true
+[2025.08.08-08.19.13:498][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.19.13:501][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.08-08.19.13:507][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.19.13:521][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.08-08.19.13:523][352]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.08.08-08.19.13:523][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.08-08.19.13:525][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.08.08-08.19.13:539][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.08-08.19.13:583][353]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.08.08-08.19.19:826][705]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.08.08-08.19.20:855][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.08-08.19.20:864][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.08-08.19.20:864][769]PIE: New page: PIE session: crashsite (08-Aug-2025, 7:19:20 pm)
+[2025.08.08-08.19.20:864][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_crashsite
+[2025.08.08-08.19.20:908][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044065s)
+[2025.08.08-08.19.20:908][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/crashsite.crashsite to /Game/Maps/UEDPIE_0_crashsite.crashsite (0.044101s)
+[2025.08.08-08.19.20:923][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.08-08.19.20:926][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.08.08-08.19.20:926][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.08.08-08.19.20:927][769]LogAIModule: Creating AISystem for world crashsite
+[2025.08.08-08.19.20:927][769]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2025.08.08-08.19.20:927][769]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.08-08.19.20:927][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.08-08.19.20:927][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.08-08.19.20:928][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.08-08.19.20:928][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.08-08.19.20:928][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.08-08.19.20:930][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.08-08.19.20:949][769]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.08.08-08.19.20:949][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.08-08.19.20:949][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.08-08.19.20:949][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.08-08.19.20:949][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.08.08-08.19.20:949][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.08.08-08.19.20:951][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.08.08-08.19.20:951][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.08.08-08.19.20:951][769]LogInit: FAudioDevice initialized with ID 18.
+[2025.08.08-08.19.20:951][769]LogAudio: Display: Audio Device (ID: 18) registered with world 'crashsite'.
+[2025.08.08-08.19.20:951][769]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.08-08.19.20:955][769]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.08.08-08.19.20:979][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_crashsite.crashsite up for play (max tick rate 0) at 2025.08.08-13.49.20
+[2025.08.08-08.19.20:981][769]LogWorld: Bringing up level for play took: 0.025451
+[2025.08.08-08.19.20:983][769]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.08.08-08.19.20:984][769]PIE: Server logged in
+[2025.08.08-08.19.20:985][769]PIE: Play in editor total start time 0.121 seconds.
+[2025.08.08-08.19.22:128][832]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.08-08.19.22:128][832]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.08.08-08.19.23:617][923]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.08.08-08.19.23:617][923]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.08.08-08.19.25:265][ 30]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.08.08-08.19.25:265][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.08.08-08.19.26:161][ 85]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.08.08-08.19.26:161][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.08.08-08.19.26:943][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.08-08.19.26:943][132]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_crashsite
+[2025.08.08-08.19.26:944][132]LogWorld: UWorld::CleanupWorld for crashsite, bSessionEnded=true, bCleanupResources=true
+[2025.08.08-08.19.26:947][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.19.26:951][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.08-08.19.26:958][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.08-08.19.26:974][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.08-08.19.26:974][132]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.08.08-08.19.26:974][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.08.08-08.19.26:976][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.08.08-08.19.26:980][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.08-08.19.26:989][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.08.08-08.19.27:031][133]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.08.08-08.19.37:135][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.08-08.19.37:239][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.08-08.19.37:409][740]LogSavePackage: Moving output files for package: /Game/Maps/crashsite
+[2025.08.08-08.19.37:410][740]LogSavePackage: Moving '../../../../../../Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject/Saved/crashsite66C0D73E4B59271247CC0F8744788F73.tmp' to '../../../../../../Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject/Content/Maps/crashsite.umap'
+[2025.08.08-08.19.37:421][740]LogFileHelpers: Saving map 'crashsite' took 0.223
+[2025.08.08-08.19.37:438][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 10.2 sec)
+[2025.08.08-08.19.37:443][740]AssetCheck: New page: Asset Save: crashsite
+[2025.08.08-08.19.37:443][740]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/crashsite.crashsite
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Water/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Water/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/WaterExtras/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/WaterExtras/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Landmass/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Landmass/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/NiagaraFluids/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/NiagaraFluids/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:799][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.50:800][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/aksha/OneDrive/Dokumente/Unreal Projects/SAMPLEproject'
+[2025.08.08-08.19.55:253][103]LogSlate: Window 'Submit Files' being destroyed
+[2025.08.08-08.19.56:029][103]LogSourceControl: commit successful: [master a363ab1] update
+[2025.08.08-08.19.56:094][103]SourceControl: [master a363ab1] update
+[2025.08.08-08.19.56:094][103]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.08.08-08.19.56:123][103]SourceControl: Commited [master a363ab1] update.
+[2025.08.08-08.19.57:248][151]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5742.180664
+[2025.08.08-08.19.58:067][163]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.08-08.19.58:067][163]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5742.665527, Update Interval: 354.133118
